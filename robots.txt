@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://jung-ho-choi.github.io/sitemap.xml
