@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My File Drawer | Jung Ho Choi</title>
+    <link>https://jung-ho-choi.github.io/filedrawer/</link>
+      <atom:link href="https://jung-ho-choi.github.io/filedrawer/index.xml" rel="self" type="application/rss+xml" />
+    <description>My File Drawer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jung-ho-choi.github.io/filedrawer/featured.jpg</url>
+      <title>My File Drawer</title>
+      <link>https://jung-ho-choi.github.io/filedrawer/</link>
+    </image>
+    
+    <item>
+      <title>Facial morphs</title>
+      <link>https://jung-ho-choi.github.io/filedrawer/facial/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jung-ho-choi.github.io/filedrawer/facial/</guid>
+      <description>&lt;p&gt;Project with 6 experiments and 2,519 participants exploring the effects of facial femininity on perceptions of effort and natural talent.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Active listening</title>
+      <link>https://jung-ho-choi.github.io/filedrawer/listening/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jung-ho-choi.github.io/filedrawer/listening/</guid>
+      <description>&lt;p&gt;Project with 5 experiments and 1,620 participants exploring the effects of active listening on social perceptions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Effort</title>
+      <link>https://jung-ho-choi.github.io/filedrawer/effort/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jung-ho-choi.github.io/filedrawer/effort/</guid>
+      <description>&lt;p&gt;Project with 1 experiment and 139 participants exploring the effect of effort on liking, quality ratings, and perceived competence and commitment.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Peer estimation</title>
+      <link>https://jung-ho-choi.github.io/filedrawer/peer-estimation/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jung-ho-choi.github.io/filedrawer/peer-estimation/</guid>
+      <description>&lt;p&gt;Project with 1 experiment and 120 participants exploring differences between self- and other-perceptions in terms of motivation for and engagement in work tasks.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
