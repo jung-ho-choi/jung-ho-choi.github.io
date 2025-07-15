@@ -1,0 +1,22 @@
+# Theme metadata
+name = "Coffee"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#003B5C"  # UPenn Navy Blue
+
+# Menu
+menu_primary = "#FFF" 
+menu_text = "#000"
+menu_text_active = "#9E1B32"  # UPenn Cherry Red
+menu_title = "#000"
+
+# Home sections
+home_section_odd = "#FFF"
+home_section_even = "rgb(234, 242, 250)"
+
+link = "#003B5C"  # UPenn Navy Blue
+link_hover = "#9E1B32"  # UPenn Cherry Red
+
