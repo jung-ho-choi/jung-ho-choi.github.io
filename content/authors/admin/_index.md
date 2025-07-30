@@ -44,9 +44,12 @@ bio: I am a nonprofit management scholar.
 greeting: Jung Ho::Choi()
 ---
 
-Welcome! My name is Jung Ho, and I’m a Ph.D. candidate at the University of Pennsylvania’s School of Social Policy and Practice (SP2). My research focuses on uncovering the mechanisms behind private funding that drive the public good. I draw on organizational theory and use both traditional quantitative methods and computational text analysis, including Large Language Models. My dissertation examines the dynamics of philanthropic grants and their role in generating social impact, with particular attention to two areas: (1) how the structure of grant distribution — specifically, concentration versus diversification — relates to societal outcomes, and (2) how organizational and institutional factors are associated with patterns of philanthropic resource allocation.
+Welcome! My name is Jung Ho, and I’m a Ph.D. candidate at the University of Pennsylvania’s School of Social Policy and Practice (SP2). My research focuses on uncovering how private funding drives social impact. I draw on organizational theory and uses both traditional causal inference methods and computational text analysis techniques, including Large Language Models. 
 
-Prior to joining SP2, I earned my bachelor’s and master’s degrees in Public Administration from Korea University in South Korea. I also hold a Master of Public Policy from the University of Minnesota with the generous support of the Korean Government Scholarship Program for Study Overseas. My work has been published in Voluntas and other peer-reviewed journals.
+Prior to joining SP2, I earned his bachelor’s and master’s degrees in Public Administration from Korea University in Seoul, South Korea. I also hold a Master of Public Policy from the University of Minnesota with the generous support of the Korean Government Scholarship Program for Study Overseas. My work has been published in Voluntas and other peer-reviewed journals.
+
+I will be on the academic job market in Fall 2025. 
+
 <center> 
 
 </center> 
