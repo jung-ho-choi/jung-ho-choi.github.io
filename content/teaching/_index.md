@@ -8,6 +8,7 @@ type: "page"
 
 > Jung Ho was extremely knowledgeable and truly made an effort to ensure we all understood the material, not just superficially. 
 
+<br>
 
 <h2 style="color: #3f51b5 !important;">TA: Economics of Human Behavior and Organizational Life</h2>
 
