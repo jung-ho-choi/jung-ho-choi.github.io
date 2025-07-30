@@ -1,7 +1,6 @@
 ---
 title: "Research"
-type: "publication"
-draft: false
+type: "page"
 ---
 <h2 style="color: #3f51b5;">Dissertation</h2>
 

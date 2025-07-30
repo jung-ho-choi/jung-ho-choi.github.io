@@ -1,7 +1,6 @@
 ---
 title: "Teaching"
-type: "teaching"
-draft: false
+type: "page"
 ---
 ### **Student Feedback Highlights:**
 
