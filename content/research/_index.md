@@ -12,7 +12,7 @@ My dissertation tackles a fundamental question in the philanthropic ecosystem: *
 
 **Choi, J. H.**, & Handy, F. (Forthcoming). “Social Closure in Social Work: The Racial Implications of Licensure Requirements” _Advances in Social Work_.
 
-Oelberger, C., Eaton, A., & **Choi, J. H.** (2024). [“One Size Fits All? Exploring Motivation for Public Employees with a Job Fit Framework and Response Surface Analysis”](https://journals.sagepub.com/doi/full/10.1177/0734371X231218898) _Review of Public Personnel Administration, 45_(2), 333-364.
+Oelberger, C., Eaton, A., & **Choi, J. H.** (2025). [“One Size Fits All? Exploring Motivation for Public Employees with a Job Fit Framework and Response Surface Analysis”](https://journals.sagepub.com/doi/full/10.1177/0734371X231218898) _Review of Public Personnel Administration, 45_(2), 333-364.
 
 Allen, R., Horner, K., & **Choi, J. H.** (2023). [“Penalties and Payoffs: The Short-Term Economic Consequences of Human Capital Acquisition for Resettled Refugees in the U.S.”](https://onlinelibrary.wiley.com/doi/full/10.1111/imig.13143) _International Migration, 61_, 58–74.
 
