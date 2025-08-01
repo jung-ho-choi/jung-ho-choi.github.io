@@ -28,3 +28,4 @@ The PPIA Junior Summer Institute is an intensive graduate-level preparation prog
 **Undergraduate Course** | Department of Public Administration, Kookmin University, 2020
 
 This comprehensive 4-day workshop was designed to deepen understanding of both linear and non-linear regression models. I delivered lectures on key concepts and facilitated hands-on lab sessions using R.
+Updated
