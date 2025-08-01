@@ -2,14 +2,6 @@
 title: "Teaching"
 type: "page"
 ---
-### **Student Feedback Highlights:**
-
-> Jung Ho is a great instructor because he is very knowledgeable, caring, and goes above and beyond to ensure we understand the material.
-
-> Jung Ho was extremely knowledgeable and truly made an effort to ensure we all understood the material, not just superficially. 
-
-<br>
-
 <h2 style="color: #3f51b5 !important;">TA: Economics of Human Behavior and Organizational Life</h2>
 
 **Graduate Course** | School of Social Policy and Practice, University of Pennsylvania, Fall 2024
