@@ -46,7 +46,7 @@ greeting: Jung Ho::Choi()
 
 Welcome! My name is Jung Ho, and I’m a Ph.D. candidate at the University of Pennsylvania’s School of Social Policy and Practice (SP2). My research focuses on uncovering how private funding drives social impact. I draw on organizational theory and uses both traditional causal inference methods and computational text analysis techniques, including Large Language Models. 
 
-Prior to joining SP2, I earned his bachelor’s and master’s degrees in Public Administration from Korea University in Seoul, South Korea. I also hold a Master of Public Policy from the University of Minnesota with the generous support of the Korean Government Scholarship Program for Study Overseas. My work has been published in Voluntas and other peer-reviewed journals.
+Prior to joining SP2, I earned my bachelor’s and master’s degrees in Public Administration from Korea University in Seoul, South Korea. I also hold a Master of Public Policy from the University of Minnesota with the generous support of the Korean Government Scholarship Program for Study Overseas. My work has been published in VOLUNTAS and other peer-reviewed journals.
 
 I will be on the academic job market in Fall 2025. 
 
