@@ -4,8 +4,7 @@ type: "page"
 ---
 <h2 style="color: #3f51b5;">Dissertation</h2>
 
-My dissertation tackles a fundamental question in the philanthropic ecosystem: **how can philanthropic funding decisions translate into real-world social change?** Through three interconnected studies, I examine the key mechanisms that drive philanthropic impact. The first essay analyzes whether concentrating grants among fewer nonprofits versus distributing funding more broadly relates to different societal outcomes. The second essay investigates the organizational and institutional conditions that lead corporate foundations to support progressive social movements. The third essay examines strategies community foundations use to increase public donations and strengthen their funding base. 
-
+My dissertation tackles a fundamental question in the grantmaking ecosystem: **how do government and philanthropic funding decisions translate into real-world social change?** Across three interconnected studies, I examine the mechanisms through which these actors generate social impact. The first essay analyzes whether concentrating grants among fewer nonprofits versus distributing funding more broadly relates to different societal outcomes. The second essay investigates the organizational and institutional conditions that lead private foundations to support progressive social movements. The third essay examines strategies public foundations use to increase public donations and strengthen their funding base. This project has been supported by several competitive fellowship programs, including the Oxford-Penn Social Impact Fellowship Program and the Stanford Philanthropy and Civil Society Junior Scholars Forum.
 <br>
 
 <h2 style="color: #3f51b5;">Publications</h2>
