@@ -44,7 +44,7 @@ bio: I am a nonprofit management scholar.
 greeting: Jung Ho::Choi()
 ---
 
-Welcome! My name is Jung Ho, and I’m a Ph.D. candidate at the University of Pennsylvania’s School of Social Policy and Practice (SP2). I study how public and private funding shape the creation of social impact, focusing on the distinct roles each plays. My work examines how government agencies and philanthropic organizations decide where to direct resources, and how these choices influence their capacity to generate meaningful change. I draw on organizational theory and uses both traditional causal inference methods and computational text analysis techniques, including Large Language Models. 
+Welcome! My name is Jung Ho, and I’m a Ph.D. candidate at the University of Pennsylvania’s School of Social Policy and Practice (SP2). I study how public and private funding shape the creation of social impact, focusing on the distinct roles each plays. My work examines how government agencies and philanthropic organizations decide where to direct resources, and how these choices influence their capacity to generate meaningful change. I draw on organizational theory and use both traditional causal inference methods and computational text analysis techniques, including Large Language Models. 
 
 Prior to joining SP2, I earned my bachelor’s and master’s degrees in Public Administration from Korea University in Seoul, South Korea. I also hold a Master of Public Policy from the University of Minnesota with the generous support of the Korean Government Scholarship Program for Study Overseas. My work has been published in VOLUNTAS and other peer-reviewed journals.
 
