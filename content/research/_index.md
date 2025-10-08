@@ -4,7 +4,7 @@ type: "page"
 ---
 <h2 style="color: #3f51b5;">Dissertation</h2>
 
-My dissertation tackles a fundamental question in the grantmaking ecosystem: **how do government and philanthropic funding decisions translate into real-world social change?** Across three interconnected studies, I examine the mechanisms through which these actors generate social impact. The first essay analyzes whether concentrating grants among fewer nonprofits versus distributing funding more broadly relates to different societal outcomes. The second essay investigates the organizational and institutional conditions that lead private foundations to support progressive social movements. The third essay examines strategies public foundations use to increase public donations and strengthen their funding base. This project has been supported by several competitive fellowship programs, including the Oxford-Penn Social Impact Fellowship Program and the Stanford Philanthropy and Civil Society Junior Scholars Forum.
+My dissertation tackles a fundamental question in the grantmaking ecosystem: **how do government and philanthropic funding decisions translate into real-world social change?** Across three interconnected studies, I examine the mechanisms through which these actors generate social impact. The first essay analyzes whether concentrating grants among fewer nonprofits versus distributing funding more broadly relates to different societal outcomes. The second essay investigates the organizational and institutional conditions that lead private foundations to support progressive social movements. The third essay examines strategies public foundations use to increase public donations and strengthen their funding base. This dissertation project received several prestigious awards and fellowships, including the Oxford-Penn Social Impact Fellowship and the 2025 ARNOVA Lester M. Salamon Memorial Award.
 <br>
 
 <h2 style="color: #3f51b5;">Publications</h2>
@@ -15,4 +15,4 @@ Oelberger, C., Eaton, A., & **Choi, J. H.** (2025). [“One Size Fits All? Explo
 
 Allen, R., Horner, K., & **Choi, J. H.** (2023). [“Penalties and Payoffs: The Short-Term Economic Consequences of Human Capital Acquisition for Resettled Refugees in the U.S.”](https://onlinelibrary.wiley.com/doi/full/10.1111/imig.13143) _International Migration, 61_, 58–74.
 
-Cheng, Y., & **Choi, J. H.** (2022). [“Dealing with Endogeneity to Understand the Societal Impact of the Third Sector: Why Should We Care and What Can We Do About It?”](https://link.springer.com/article/10.1007/s11266-021-00417-8) _VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations, 33_, 1245-1255.Updated
+Cheng, Y., & **Choi, J. H.** (2022). [“Dealing with Endogeneity to Understand the Societal Impact of the Third Sector: Why Should We Care and What Can We Do About It?”](https://link.springer.com/article/10.1007/s11266-021-00417-8) _VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations, 33_, 1245-1255.
