@@ -38,7 +38,7 @@ social:
 # Link to a PDF of your resume/CV.
 - icon: cv
   icon_pack: ai
-  link: cv/cv_Choi_202503.pdf
+  link: cv/cv_Choi.pdf
 superuser: yes
 bio: I am a nonprofit management scholar.
 greeting: Jung Ho::Choi()
