@@ -4,10 +4,9 @@ type: "page"
 ---
 <h2 style="color: #3f51b5 !important;">TA: Economics of Human Behavior and Organizational Life</h2>
 
-**Graduate Course** | School of Social Policy and Practice, University of Pennsylvania, Fall 2024
+**Graduate Course** | School of Social Policy and Practice, University of Pennsylvania, Fall 2024/Spring 2026
 
-The main objective of this course was to explore the various facets of human behavior within organizational and institutional settings, viewed through an economic lens. As a teaching assistant, my responsibilities included leading one class session and grading assignments.
-
+This course explored human behavior within organizational and institutional settings through an economic lens. As a teaching assistant, I led a guest lecture on the economics of organizational choice and graded assignments.
 ---
 <h2 style="color: #3f51b5 !important;">Instructor: Introductory Statistics for the Social Sciences</h2>
 

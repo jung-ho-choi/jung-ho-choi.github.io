@@ -2,14 +2,18 @@
 title: "Research"
 type: "page"
 ---
-<h2 style="color: #3f51b5;">Dissertation</h2>
+<h2 style="color: #3f51b5;">Research Program</h2>
 
-My dissertation tackles a fundamental question in the grantmaking ecosystem: **how do government and philanthropic funding decisions translate into real-world social change?** Across three interconnected studies, I examine the mechanisms through which these actors generate social impact. The first essay analyzes whether concentrating grants among fewer nonprofits versus distributing funding more broadly relates to different societal outcomes. The second essay investigates the organizational and institutional conditions that lead private foundations to support progressive social movements. The third essay examines strategies public foundations use to increase public donations and strengthen their funding base. This dissertation project received several prestigious awards and fellowships, including the Oxford-Penn Social Impact Fellowship and the 2025 ARNOVA Lester M. Salamon Memorial Award.
+Working at a social enterprise in South Korea, I saw our mission challenged from two directions: from above, by how funders chose to distribute their grants, and from within, by how our own organization managed its workforce. This experience set the direction of my research program, which investigates two interconnected management problems: how government and philanthropic funding decisions advance or constrain equity in the communities that mission- driven organizations serve, and whether those organizations align their internal practices with the equity they espouse.
+<br>
+
+<h2 style="color: #3f51b5;">Dissertation</h2>
+A core chapter of my dissertation examines whether governments and philanthropic funders should concentrate their anti-poverty grants among a few nonprofits or distribute them more equally. Using unique panel data constructed through machine-learning-based methods, I find that equal distribution across multiple anti-poverty nonprofits is associated with lower poverty levels. Further analysis reveals that government funding establishes core infrastructure through concentration, while philanthropic funding is associated with decreases in poverty most strongly when distributed equally to extend reach to underserved needs.
 <br>
 
 <h2 style="color: #3f51b5;">Publications</h2>
 
-**Choi, J. H.**, & Handy, F. (Forthcoming). “Social Closure in Social Work: The Racial Implications of Licensure Requirements” _Advances in Social Work_.
+**Choi, J. H.**, & Handy, F. (2025). [“Social Closure in Social Work: The Racial Implications of Licensure Requirements”](https://advancesinsocialwork.indianapolis.iu.edu/index.php/advancesinsocialwork/article/view/28621) _Advances in Social Work, 25_(2), 576-593.
 
 Oelberger, C., Eaton, A., & **Choi, J. H.** (2025). [“One Size Fits All? Exploring Motivation for Public Employees with a Job Fit Framework and Response Surface Analysis”](https://journals.sagepub.com/doi/full/10.1177/0734371X231218898) _Review of Public Personnel Administration, 45_(2), 333-364.
 
