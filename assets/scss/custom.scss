@@ -2,25 +2,56 @@
 // See customization options here https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/bootstrap/_variables.scss //
 
 :root {
-  color-scheme: light;
+  color-scheme: light only;
+}
+
+html {
+  color-scheme: light only;
 }
 
 @media (prefers-color-scheme: dark) {
+
   body,
   section,
-  .universal-wrapper {
+  .home-section,
+  .universal-wrapper,
+  .article-container,
+  main,
+  article {
     background-color: #ffffff !important;
+  }
+
+  .home-section:nth-of-type(even),
+  section:nth-of-type(even) {
+    background-color: #f7f7f7 !important;
+  }
+
+  body,
+  p, li, blockquote, dl, dt, dd {
+    color: #1d1d1d !important;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
     color: #011F5B !important;
   }
 
-  h1, h2, h3, h4, h5, h6,
-  p, li, a {
-    color: #011F5B !important;
+  .navbar,
+  #navbar-main,
+  nav.navbar {
+    background-color: rgb(1, 31, 91) !important;
   }
 
-  .article-style,
-  .article-style p {
-    color: #011F5B !important;
+  .navbar a,
+  .navbar .nav-link,
+  .navbar .navbar-brand,
+  .navbar-brand {
+    color: #ffffff !important;
+  }
+
+  .navbar .nav-link.active,
+  .navbar .nav-link:hover,
+  .navbar .nav-link:focus {
+    color: #F2C100 !important;
   }
 }
 
