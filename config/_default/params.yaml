@@ -6,7 +6,7 @@
 # Appearance
 
 theme: choi_theme
-day_night: true
+day_night: false
 font: 'shilaan_font'
 font_size: L
 
