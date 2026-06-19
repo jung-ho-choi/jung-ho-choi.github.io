@@ -1,40 +1,68 @@
 /*-- scss:defaults --*/
 // See customization options here https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/bootstrap/_variables.scss //
 
-:root {
-  color-scheme: light only;
-}
-
+:root,
 html {
   color-scheme: light only;
 }
 
 @media (prefers-color-scheme: dark) {
 
-  body,
-  section,
-  .home-section,
-  .universal-wrapper,
-  .article-container,
-  main,
-  article {
+  /* Force html and body to white */
+  html,
+  html body {
     background-color: #ffffff !important;
-  }
-
-  .home-section:nth-of-type(even),
-  section:nth-of-type(even) {
-    background-color: #f7f7f7 !important;
-  }
-
-  body,
-  p, li, blockquote, dl, dt, dd {
     color: #1d1d1d !important;
   }
 
-  h1, h2, h3, h4, h5, h6 {
+  /* All possible content containers */
+  .page-body,
+  .home-section,
+  .home-section-bg,
+  .universal-wrapper,
+  .article-container,
+  .container,
+  main,
+  article,
+  section {
+    background-color: #ffffff !important;
+  }
+
+  /* Alternating section backgrounds */
+  .home-section:nth-of-type(even),
+  .home-section:nth-of-type(even) .home-section-bg {
+    background-color: #f7f7f7 !important;
+  }
+
+  /* Headings */
+  body h1,
+  body h2,
+  body h3,
+  body h4,
+  body h5,
+  body h6 {
     color: #011F5B !important;
   }
 
+  /* Body text */
+  body p,
+  body li,
+  body blockquote,
+  .article-style,
+  .article-style p,
+  .article-style li,
+  .portrait-title h2,
+  .portrait-title h3 {
+    color: #011F5B !important;
+  }
+
+  /* Social icons */
+  .network-icon i,
+  .big-icon {
+    color: #011F5B !important;
+  }
+
+  /* Navbar: navy bg, white links */
   .navbar,
   #navbar-main,
   nav.navbar {
@@ -43,8 +71,7 @@ html {
 
   .navbar a,
   .navbar .nav-link,
-  .navbar .navbar-brand,
-  .navbar-brand {
+  .navbar .navbar-brand {
     color: #ffffff !important;
   }
 
