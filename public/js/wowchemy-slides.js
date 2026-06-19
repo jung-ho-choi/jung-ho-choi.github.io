@@ -1,8 +1,8 @@
 (() => {
-  // ns-params:@params
+  // ns-hugo-params:<stdin>
   var slides = { highlight_style: "dracula", theme: "black" };
 
-  // ns-hugo:/Users/choi/Downloads/personal-website-main-2/themes/github.com/wowchemy/wowchemy-hugo-modules/wowchemy/assets/js/wowchemy-utils.js
+  // ns-hugo-imp:/Users/choi/Downloads/personal-website-main-2/themes/github.com/wowchemy/wowchemy-hugo-modules/wowchemy/assets/js/wowchemy-utils.js
   function fixMermaid(render = false) {
     let mermaids = [];
     [].push.apply(mermaids, document.getElementsByClassName("language-mermaid"));

@@ -1,6 +1,29 @@
 /*-- scss:defaults --*/
 // See customization options here https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/bootstrap/_variables.scss //
 
+:root {
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  body,
+  section,
+  .universal-wrapper {
+    background-color: #ffffff !important;
+    color: #011F5B !important;
+  }
+
+  h1, h2, h3, h4, h5, h6,
+  p, li, a {
+    color: #011F5B !important;
+  }
+
+  .article-style,
+  .article-style p {
+    color: #011F5B !important;
+  }
+}
+
 pre,
 code {
   color: #3f51b5;
