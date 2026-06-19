@@ -3,82 +3,45 @@
 
 :root,
 html {
-  color-scheme: light only;
+  color-scheme: light dark;
 }
 
 @media (prefers-color-scheme: dark) {
 
-  /* Force html and body to white */
-  html,
-  html body {
-    background-color: #ffffff !important;
-    color: #1d1d1d !important;
-  }
-
-  /* All possible content containers */
-  .page-body,
-  .home-section,
-  .home-section-bg,
-  .universal-wrapper,
-  .article-container,
-  .container,
-  main,
-  article,
-  section {
-    background-color: #ffffff !important;
-  }
-
-  /* Alternating section backgrounds */
-  .home-section:nth-of-type(even),
-  .home-section:nth-of-type(even) .home-section-bg {
-    background-color: #f7f7f7 !important;
-  }
-
-  /* Headings */
+  /* Headings: navy becomes lighter blue */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
   body h1,
   body h2,
-  body h3,
-  body h4,
-  body h5,
-  body h6 {
-    color: #011F5B !important;
+  body h3 {
+    color: #82AFD3 !important;
   }
 
-  /* Body text */
-  body p,
-  body li,
-  body blockquote,
-  .article-style,
-  .article-style p,
-  .article-style li,
+  /* Profile name and subtitle on homepage */
   .portrait-title h2,
   .portrait-title h3 {
-    color: #011F5B !important;
+    color: #82AFD3 !important;
   }
 
-  /* Social icons */
+  /* Section headings on research page */
+  h2#dissertation,
+  h2#publications {
+    color: #82AFD3 !important;
+  }
+
+  /* Social/network icons */
   .network-icon i,
   .big-icon {
-    color: #011F5B !important;
+    color: #82AFD3 !important;
   }
 
-  /* Navbar: navy bg, white links */
-  .navbar,
-  #navbar-main,
-  nav.navbar {
-    background-color: rgb(1, 31, 91) !important;
-  }
-
-  .navbar a,
-  .navbar .nav-link,
-  .navbar .navbar-brand {
-    color: #ffffff !important;
-  }
-
-  .navbar .nav-link.active,
-  .navbar .nav-link:hover,
-  .navbar .nav-link:focus {
-    color: #F2C100 !important;
+  /* Links in article body */
+  .article-style a {
+    color: #82AFD3 !important;
   }
 }
 
