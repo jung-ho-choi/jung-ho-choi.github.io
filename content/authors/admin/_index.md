@@ -44,7 +44,7 @@ bio: I am a nonprofit management scholar.
 greeting: Jung Ho::Choi()
 ---
 
-Welcome! My name is Jung Ho, and I am a Ph.D. candidate at the University of Pennsylvania's School of Social Policy and Practice (SP2), expecting to defend my dissertation in June 2026. My research investigates two interconnected management problems: how government and philanthropic funding decisions advance or constrain equity in the communities that mission-driven organizations serve, and whether those organizations align their internal practices with the equity they espouse. I draw on organizational theory and use both quantitative methods and computational social science techniques.
+Welcome! My name is Jung Ho, and I am a Ph.D. candidate at the University of Pennsylvania's School of Social Policy and Practice (SP2). My research investigates two interconnected management problems: how government and philanthropic funding decisions advance or constrain equity in the communities that mission-driven organizations serve, and whether those organizations align their internal practices with the equity they espouse. I mainly draw on organizational theory and use both quantitative methods and computational social science.
 <br>
 
 Prior to joining SP2, I earned my bachelor’s and master’s degrees in Public Administration from Korea University in Seoul, South Korea. I also hold a Master of Public Policy from the University of Minnesota with the generous support of the Korean Government Scholarship Program for Overseas Study. My work has been published in Review of Public Personnel Administration, VOLUNTAS, and other peer-reviewed journals.

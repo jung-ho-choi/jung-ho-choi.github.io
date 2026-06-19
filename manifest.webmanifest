@@ -2,8 +2,8 @@
   "name": "Jung Ho Choi",
   "short_name": "Jung Ho Choi",
   "lang": "en-us",
-  "theme_color": "#3f51b5",
-  "background_color": "#3f51b5",
+  "theme_color": "rgb(1, 31, 91)",
+  "background_color": "rgb(1, 31, 91)",
   "icons": [{
     "src": "/media/icon_hufbeae4bc7d0efb073fa91d6c29617d6e_57336_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
